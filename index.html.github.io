@@ -1,5 +1,8 @@
-<ol>
-	<li>
+<html>
+<head>
+<title> Kesimpulan RekWeb 1 </title>
+</head>
+<body>
 	Nama : Meilianda Aryanti Abelia
 	NIM  : 1922500195
 	Rekaya Web SI5A
@@ -31,6 +34,5 @@
 	  1. Membuat satu folder terlebih dahulu.
 	  2. Kemudian copy file yang dihtdocs tadi kedalam folder yang dibuat tadi (baru aplikasinya). Kemudian dari phpmyadmin klik export pilih custom 
 	     pilih database klik go. Taruh file nya di folder tadi.
-	</li>
-	</ol>
-
+	</body>
+	</html>
