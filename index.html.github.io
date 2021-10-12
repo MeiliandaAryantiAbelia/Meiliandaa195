@@ -1,17 +1,16 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title> Kesimpulan RekWeb 1 </title>
 </head>
 <body>
-<ol>
-<li>
-	Nama : Meilianda Aryanti Abelia
-	NIM  : 1922500195
-	Rekaya Web SI5A
+ <h1>Pertemuan 1</h1>
+	Nama : Meilianda Aryanti Abelia<br/>
+	NIM  : 1922500195<br/>
+	Rekaya Web SI5A</br>
 	
-
-	Kesimpulan Rekweb 1 :
-	* Saya harus menonton materi secara berurutan atau berkesinambungan agar bisa dimengerti.
+<ol>    Kesimpulan Rekweb 1 :
+<li>    * Saya harus menonton materi secara berurutan atau berkesinambungan agar bisa dimengerti.
 	* CRUD (Create, Read, Update, Delete).
 	* CMS (Content Management Systems).
 	* Plugin diwordpress ada keamanan, tampilan dan konten. tampilan ini seperti slide show, gambar. Kalo konten itu misalkan pengen share ke youtube atau instragram.
